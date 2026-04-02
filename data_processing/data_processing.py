@@ -11,8 +11,8 @@ SEED = 3407
 ALF_DATASET = "u-10bei/sft_alfworld_trajectory_dataset_v5"
 DB_DATASET  = "u-10bei/dbbench_sft_dataset_react_v4"
 
-# あなたのアップロード先（自分のHFアカウント/データセット名に変更）
-OUT_DATASET_ID = "kochan13/mixed-agent-dataset-v6_v2_2"
+# アップロード先（自分のHFアカウント/データセット名）
+OUT_DATASET_ID = "***/***"
 
 # DBBenchを「SQL 1行のみ」に正規化するか（推奨: True）
 NORMALIZE_DBBENCH_TO_SQL_ONLY = True
